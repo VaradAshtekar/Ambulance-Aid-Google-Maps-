@@ -1,6 +1,6 @@
 # Ambulance Aid for solving Oxygen Emergency problem
 
-Link of the project : https://9c22-2401-4900-57a2-f51c-e457-48d9-a745-d8b1.in.ngrok.io/pno/099218%2034834 <br>
+Link of the project : https://9c22-2401-4900-57a2-f51c-e457-48d9-a745-d8b1.in.ngrok.io <br>
 
 <b>1. Problem Statement and Introduction</b>
 
