@@ -6,7 +6,7 @@ Link of the project : https://9c22-2401-4900-57a2-f51c-e457-48d9-a745-d8b1.in.ng
 
 There have been numerous cases of oxygen emergency during an ambulance trip from one place to other. Absence of enough oxygen or ventilation within the ambulance may lead to patient’s death. To tackle this problem, our team has created a web application for ambulance. This web application displays information about all the available hospitals near the current location of ambulance and contacts with those hospitals to check the availability of ambulance. If the hospital with required amount of oxygen is located, the application displays the route to that hospital. Maps Javascript API is used to display map on the web application. <br>
 
-<b>2. Locating Hospitals
+<b>2. Locating Hospitals</b>
   
 Geolocation API is used to find current location of the ambulance.<br>
 
